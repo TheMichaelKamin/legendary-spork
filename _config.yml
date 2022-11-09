@@ -8,14 +8,13 @@ description: the funny
 username: Michael Kamin
 user_description: lorum ipsum or something idk
 user_title: Funny guy
-email: michaelkamin07@gmail.com
+email: CATCHALLLLLLLL
 twitter_username: MichaelKamin007
 instagram_username: michaelkamin007
 # facebook_username: balls
 # linkedin_username: balls
 github_username:  TheMichaelKamin
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
+medium_username: 5854966593
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
